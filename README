@@ -1,3 +1,7 @@
+this is a build of st designed for Arch Water Linux, it has some patches to have vim keybingings
+it is preferable to also use zsh
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
